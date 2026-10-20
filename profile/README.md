@@ -1,12 +1,21 @@
-# Folheia
+<p align="center">
+  <img src="https://raw.githubusercontent.com/folheia-app/folheia/main/public/icons/icon-192.png" width="96" height="96" alt="Folheia">
+</p>
 
-Leitor de PDF e CBZ em formato de livro, que roda inteiro no navegador. O seu arquivo não sai do seu aparelho.
+<h1 align="center">Folheia</h1>
 
-- **Abrir o leitor:** <https://folheia-app.github.io/folheia/>
-- **Código:** [folheia-app/folheia](https://github.com/folheia-app/folheia) (licença MIT)
+<p align="center"><strong>Para folhear tudo o que você lê.</strong></p>
 
-Projeto pessoal e experimental de [Artur Santiago](https://github.com/artursantiago), feito para estudar como se constrói um leitor de livros e quadrinhos na web.
+<p align="center">
+  <a href="https://folheia-app.github.io/folheia/">Abrir o Folheia</a> ·
+  <a href="https://github.com/folheia-app/folheia">Código</a> ·
+  <a href="https://github.com/folheia-app/folheia/blob/main/docs/roteiro.md">Roteiro</a>
+</p>
+
+O Folheia é o seu acervo de leitura: livros, quadrinhos, mangás e revistas num lugar só, lidos folheando, página a página, como no papel.
+
+É open source (MIT), roda inteiro no navegador e funciona como app no iPad e no celular. Um projeto pessoal e experimental de [Artur Santiago](https://github.com/artursantiago).
 
 ---
 
-_A flipbook reader for PDF and CBZ files that runs entirely in the browser; your file never leaves your device. A personal, experimental project._
+_**Leaf through everything you read.** Folheia is your reading collection: books, comics, manga and magazines in one place, read page by page. A personal, experimental, open-source project._
